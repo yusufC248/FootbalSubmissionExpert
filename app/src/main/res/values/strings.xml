@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SubmissionExpert</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="clubs">Clubs</string>
+    <string name="favorite">Favorite</string>
+    <string name="logo">Logo</string>
+    <string name="stadium">Stadium</string>
+    <string name="description">Description</string>
+    <string name="error_notif">Terjadi Masalah Aplikasi !</string>
+    <string name="empty_notif">Belum Ada Data</string>
+    <string name="detail_tittle">Detail Club</string>
+    <string name="title_favorite">Favorite</string>
+</resources>

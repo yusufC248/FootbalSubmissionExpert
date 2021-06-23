@@ -1,3 +1,5 @@
+@file:Suppress("unused", "unused")
+
 package com.yusuf.submissionexpert
 
 import android.app.Application
